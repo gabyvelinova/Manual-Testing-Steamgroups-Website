@@ -5,8 +5,7 @@ Personal Project for Manual Testing
 
 <h2>This repo contains developed test cases and executed them manually to verify software functionality</h2>
 
-<ul>
+
 To run the app, go to:
 
 https://www.steamgroups.com.br/
-</ul>
